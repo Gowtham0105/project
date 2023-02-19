@@ -2,6 +2,7 @@ package com.onesoft.useproduct;
 
 public class Product {
 	private int id;
+	private int mobileNumber;
 	private String name;
 	private String brand;
 	private int price;
